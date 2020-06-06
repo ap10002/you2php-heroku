@@ -5,7 +5,7 @@
 
 > 2.修改web/.htpasswd，为网站加锁 https://you2php.github.io/doc/#credit
 
-> 3.[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+> 3.[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/ap10002/you2php-heroku)
 
 > 4.安装和配置 https://you2php.github.io/doc/
 
